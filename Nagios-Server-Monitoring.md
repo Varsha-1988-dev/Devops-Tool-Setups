@@ -3,7 +3,7 @@
 ## Nagios Server Commands
 
 ```
-sudo apt update
+sudo apt update 
 sudo apt install -y \
 build-essential \
 gawk \
